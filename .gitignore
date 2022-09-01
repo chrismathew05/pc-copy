@@ -1,0 +1,7 @@
+venv
+.vscode
+.env
+.dockerignore
+__pycache__/
+src/.postgresql/
+experiment
