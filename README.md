@@ -6,8 +6,8 @@ This project scrapes various sources (Yahoo Finance, Tipranks, Questrade, etc.) 
 
 ## Links
 
-- Link to Web App: https://redacted.vercel.app/
-- Link to Documentation (once logged in): https://redacted.vercel.app/html/index.html
+- Link to Web App: [REDACTED - hosted on vercel]
+- Link to Documentation (once logged in): [REDACTED - hosted on vercel]
 - Link to Web App repo: https://github.com/chrismathew05/pc-copy
 
 ## Building
